@@ -1,5 +1,7 @@
 # 📊 A1 Mart Sales Forecasting
 
+**🌐 Live Demo:** [https://a1-mart-sales.streamlit.app/](https://a1-mart-sales.streamlit.app/)
+
 An interactive dashboard and sales forecasting tool built using **Streamlit** and **Machine Learning (Random Forest)**.
 
 ## 🚀 Key Features
